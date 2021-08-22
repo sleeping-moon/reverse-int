@@ -7,13 +7,13 @@ it('Should return 261 when 162 given', () => {
 
   assert.equal(reversed, 261);
 });
-it('Should return 291 when -192 given', () => {
-  const reversed = reverse(-192);
+it('Should return 291 when 192 given', () => {
+  const reversed = reverse(192);
 
   assert.equal(reversed, 291);
 });
-it('Should return 252 when -252 given', () => {
-  const reversed = reverse(-252);
+it('Should return 252 when 252 given', () => {
+  const reversed = reverse(252);
 
   assert.equal(reversed, 252);
 });
@@ -27,8 +27,8 @@ it('Should return 605 when 506 given', () => {
 
   assert.equal(reversed, 605);
 });
-it('Should return 835 when -538 given', () => {
-  const reversed = reverse(-538);
+it('Should return 835 when 538 given', () => {
+  const reversed = reverse(538);
 
   assert.equal(reversed, 835);
 });
@@ -37,23 +37,23 @@ it('Should return 465 when 564 given', () => {
 
   assert.equal(reversed, 465);
 });
-it('Should return 891 when -198 given', () => {
-  const reversed = reverse(-198);
+it('Should return 891 when 198 given', () => {
+  const reversed = reverse(198);
 
   assert.equal(reversed, 891);
 });
-it('Should return 715 when -517 given', () => {
-  const reversed = reverse(-517);
+it('Should return 715 when 517 given', () => {
+  const reversed = reverse(517);
 
   assert.equal(reversed, 715);
 });
-it('Should return 601 when -106 given', () => {
-  const reversed = reverse(-106);
+it('Should return 601 when 106 given', () => {
+  const reversed = reverse(106);
 
   assert.equal(reversed, 601);
 });
-it('Should return 462 when -264 given', () => {
-  const reversed = reverse(-264);
+it('Should return 462 when 264 given', () => {
+  const reversed = reverse(264);
 
   assert.equal(reversed, 462);
 });
@@ -62,8 +62,8 @@ it('Should return 332 when 233 given', () => {
 
   assert.equal(reversed, 332);
 });
-it('Should return 763 when -367 given', () => {
-  const reversed = reverse(-367);
+it('Should return 763 when 367 given', () => {
+  const reversed = reverse(367);
 
   assert.equal(reversed, 763);
 });
@@ -77,13 +77,13 @@ it('Should return 822 when 228 given', () => {
 
   assert.equal(reversed, 822);
 });
-it('Should return 231 when -132 given', () => {
-  const reversed = reverse(-132);
+it('Should return 231 when 132 given', () => {
+  const reversed = reverse(132);
 
   assert.equal(reversed, 231);
 });
-it('Should return 152 when -251 given', () => {
-  const reversed = reverse(-251);
+it('Should return 152 when 251 given', () => {
+  const reversed = reverse(251);
 
   assert.equal(reversed, 152);
 });
@@ -92,8 +92,8 @@ it('Should return 561 when 165 given', () => {
 
   assert.equal(reversed, 561);
 });
-it('Should return 524 when -425 given', () => {
-  const reversed = reverse(-425);
+it('Should return 524 when 425 given', () => {
+  const reversed = reverse(425);
 
   assert.equal(reversed, 524);
 });
